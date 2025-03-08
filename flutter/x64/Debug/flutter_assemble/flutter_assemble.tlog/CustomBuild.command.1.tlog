@@ -1,0 +1,28 @@
+^E:\DEVELOPMENT\APP_DEV\FLUTTER_PROJECT\TICKET_APP\BUILD\WINDOWS\X64\CMAKEFILES\3A7AEF550C52B0198349E14B034F8C4F\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\rohan\dev\src\flutter PROJECT_DIR=E:\development\app_dev\flutter_project\ticket_app FLUTTER_ROOT=C:\Users\rohan\dev\src\flutter FLUTTER_EPHEMERAL_DIR=E:\development\app_dev\flutter_project\ticket_app\windows\flutter\ephemeral PROJECT_DIR=E:\development\app_dev\flutter_project\ticket_app FLUTTER_TARGET=E:\development\app_dev\flutter_project\ticket_app\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=E:\development\app_dev\flutter_project\ticket_app\.dart_tool\package_config.json C:/Users/rohan/dev/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\DEVELOPMENT\APP_DEV\FLUTTER_PROJECT\TICKET_APP\BUILD\WINDOWS\X64\CMAKEFILES\63C861D97408BB6E724325F1A82A658D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\DEVELOPMENT\APP_DEV\FLUTTER_PROJECT\TICKET_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/development/app_dev/flutter_project/ticket_app/windows -BE:/development/app_dev/flutter_project/ticket_app/build/windows/x64 --check-stamp-file E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

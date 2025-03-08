@@ -1,0 +1,10 @@
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/CMakeFiles/INSTALL.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/runner/CMakeFiles/ticket_app.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+E:/development/app_dev/flutter_project/ticket_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

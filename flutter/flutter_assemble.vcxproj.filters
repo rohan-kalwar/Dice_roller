@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\development\app_dev\flutter_project\ticket_app\build\windows\x64\CMakeFiles\3a7aef550c52b0198349e14b034f8c4f\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\development\app_dev\flutter_project\ticket_app\build\windows\x64\CMakeFiles\63c861d97408bb6e724325f1a82a658d\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\development\app_dev\flutter_project\ticket_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\development\app_dev\flutter_project\ticket_app\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB05BE01-B1B2-3B2A-B620-5354C523961F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
